@@ -24,12 +24,9 @@ A partir de un conjunto de datos reales se realizan cálculos estadísticos y fi
 
 # 🛠 Tecnologías Utilizadas
 
-- Python 3
+- Python 
 - Pandas
-- unittest
-- Git y GitHub
-- Visual Studio Code
-- Google Colab
+
 
 ---
 
